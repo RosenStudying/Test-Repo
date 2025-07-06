@@ -10,3 +10,4 @@ Changee
 e
 Change from interface
 Change from terminal, swear i pulled!
+pull
