@@ -6,4 +6,8 @@ Test 2
 Тест
 T
 Test
-Change
+Changee
+e
+Change from interface
+Change from terminal, swear i pulled!
+pull
